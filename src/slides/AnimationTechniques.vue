@@ -33,6 +33,7 @@
                 nth child stagger && variables
                 <a
                   href="https://codepen.io/sdras/pen/9c852940ec52897ca79544879de90eab"
+                  target="_blank"
                   >Example</a
                 >
               </li>

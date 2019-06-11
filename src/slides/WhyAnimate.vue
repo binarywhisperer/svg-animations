@@ -98,6 +98,7 @@
           <a
             href="https://codepen.io/sdras/full/qOdWEP"
             class="card-footer-item"
+            target="_blank"
             >Isolation Example</a
           >
         </footer>
