@@ -1,0 +1,50 @@
+USA MAP: https://codepen.io/sdras/full/qZBgaj/
+
+GRAPH VISUALIZATION: https://codepen.io/sdras/full/oxNmRM
+
+CHARTIST.JS: https://gionkunz.github.io/chartist-js/examples.html
+
+
+EXTENDED REFERENCE:
+------------------
+SVG ESSENTIALS: http://shop.oreilly.com/product/9780596002237.do
+SVG Colors, Patterns, & Gradients: http://shop.oreilly.com/product/0636920043065.do
+How to Scale SVG: https://css-tricks.com/scale-svg/
+
+A COMPENDIUM OF SVG INFORMATION: https://codepen.io/sdras/full/VjvGJM/
+
+JANK FREE: http://jankfree.org/
+HIGH PERFORMANCE ANIMATIONS: https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/
+CSS TRIGGERS: https://csstriggers.com/
+
+WATER DROP CELL STYLE: https://codepen.io/sdras/pen/LEzdea/
+WALK CELL STYLE: https://codepen.io/sdras/pen/azEBEZ
+
+MODAL: https://codepen.io/sdras/full/yOjWdO/
+
+
+
+
+
+- INTRO
+Drawing With SVG
+- SVG DOM
+- Curve Commands
+Putting the Scalable in Vector Graphics
+UI/UX Animations
+- Context-Shifting in UX Patterns: Morphing, Revealing, Isolation, Style, Anticipatory Cues, Interaction, Space Conservation
+Data Visualizations
+
+- The Power of SVGs
+Responsive SVG
+Performance
+Tools
+
+- Animating
+Animating With CSS
+- Key Frames
+- Cell Style
+-
+
+Response SVG Sprite
+- https://codepen.io/sdras/full/jPLgQM/

@@ -6,6 +6,11 @@
     <div class="background">
       <background></background>
     </div>
+    <div class="get-started">
+      <router-link tag="button" class="button is-primary is-large" to="/slides"
+        >Slides</router-link
+      >
+    </div>
   </div>
 </template>
 
@@ -39,5 +44,13 @@ export default {
     position: absolute;
     width: 100%;
   }
+}
+.get-started {
+  position: absolute;
+  top: 90vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  z-index: 2;
 }
 </style>

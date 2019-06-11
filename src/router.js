@@ -1,6 +1,8 @@
 import Vue from "vue";
 import Router from "vue-router";
 import Home from "./views/Home.vue";
+import Slides from "./views/Slides.vue";
+import Elephant from "./views/Elephant";
 
 Vue.use(Router);
 
@@ -10,6 +12,16 @@ export default new Router({
       path: "/",
       name: "home",
       component: Home
+    },
+    {
+      path: "/slides",
+      name: "slides",
+      component: Slides
+    },
+    {
+      path: "/elephant",
+      name: "elephant",
+      component: Elephant
     },
     {
       path: "/about",

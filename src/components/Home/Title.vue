@@ -29,15 +29,14 @@ export default {
 text {
   fill: rgba(255, 255, 255, 0.1);
   stroke: $purple;
-  animation: writing ease 4s infinite alternate;
-
-  stroke-dasharray: 60;
-  stroke-dashoffset: 60;
+  animation: writing ease 6s infinite alternate;
+  stroke-dasharray: 80;
+  stroke-dashoffset: 80;
 }
 
 @keyframes writing {
   from {
-    stroke-dashoffset: 60;
+    stroke-dashoffset: 80;
     fill: rgba(255, 255, 255, 0.1);
   }
   to {
